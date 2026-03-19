@@ -1,4 +1,4 @@
-# Contributing to Solana AI Trader
+# Contributing to Altar Labs
 
 Thank you for your interest in contributing!
 

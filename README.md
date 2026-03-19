@@ -1,4 +1,4 @@
-# 🤖 Solana AI Trader
+# 🤖 Altar Labs
 
 > **5 Specialist Agents. One Mission. Find Alpha.**
 

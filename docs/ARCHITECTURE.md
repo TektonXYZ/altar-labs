@@ -1,4 +1,4 @@
-# Solana AI Trader
+# Altar Labs
 
 ## Project Structure
 
