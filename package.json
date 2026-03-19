@@ -1,0 +1,41 @@
+{
+  "name": "solana-ai-trader",
+  "version": "1.0.0",
+  "description": "Multi-agent AI trading system for Solana ecosystem tokens",
+  "main": "coordinator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/index.js",
+    "start": "node backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TektonXYZ/solana-ai-trader.git"
+  },
+  "keywords": [
+    "solana",
+    "trading",
+    "ai",
+    "crypto",
+    "multi-agent",
+    "defi",
+    "algorithmic-trading"
+  ],
+  "author": "Tekton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TektonXYZ/solana-ai-trader/issues"
+  },
+  "homepage": "https://github.com/TektonXYZ/solana-ai-trader#readme",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.17.1",
+    "@google/generative-ai": "^0.2.1",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "openai": "^4.28.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
